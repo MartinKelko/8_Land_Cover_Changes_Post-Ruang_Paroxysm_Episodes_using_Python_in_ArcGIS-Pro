@@ -3,6 +3,7 @@
 ## Description
 
 This script visualizes the dramatic vegetation changes and subsequent regrowth following the Indonesian Ruang volcano's two paroxysm phases in April. Utilizing the Python Notebook within the ArcGIS Pro environment, the script processes a series of GeoTIFF images to create a GIF timelapse of the vegetation changes.
+https://medium.com/@martin2kelko/visualizing-the-impact-land-cover-changes-post-ruang-paroxysm-episodes-using-python-in-arcgis-pro-db898aba6c76?source=your_stories_page-------------------------------------
 
 ## How to Use
 
