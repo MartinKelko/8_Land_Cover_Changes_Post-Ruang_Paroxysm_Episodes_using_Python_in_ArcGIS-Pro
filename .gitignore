@@ -1,0 +1,46 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore project-specific files
+*.tiff
+*.tif
+*.aux
+*.ovr
+
+# Ignore output files
+*.img
+*.sid
+*.ecw
+*.jp2
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore ArcGIS Pro specific files
+*.lock
+*.gdb
+*.gdbindexes
+*.gdbtable
+*.gdbtablx
+
+# Ignore directories
+output_directory/
+
+# Ignore data and generated files
+ruang_output_directory/
+timelapse.gif
